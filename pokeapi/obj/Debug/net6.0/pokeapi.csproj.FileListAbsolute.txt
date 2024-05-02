@@ -1,0 +1,143 @@
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.csproj.AssemblyReference.cache
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.AssemblyInfoInputs.cache
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.AssemblyInfo.cs
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\appsettings.json
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\pokeapi.exe
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\pokeapi.deps.json
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\pokeapi.runtimeconfig.json
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\pokeapi.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\pokeapi.pdb
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets\msbuild.pokeapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets\msbuild.build.pokeapi.props
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pokeapi.props
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pokeapi.props
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\scopedcss\bundle\pokeapi.styles.css
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.csproj.CopyComplete
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\refint\pokeapi.dll
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.pdb
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.genruntimeconfig.cache
+C:\Users\COMPUTER   ONE\Desktop\projects\pokeapi\pokeapi\obj\Debug\net6.0\ref\pokeapi.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\appsettings.Development.json
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\appsettings.json
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\pokeapi.exe
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\pokeapi.deps.json
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\pokeapi.runtimeconfig.json
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\pokeapi.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\pokeapi.pdb
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Humanizer.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.csproj.AssemblyReference.cache
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.AssemblyInfoInputs.cache
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.AssemblyInfo.cs
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.csproj.CoreCompileInputs.cache
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets\msbuild.pokeapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets\msbuild.build.pokeapi.props
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pokeapi.props
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pokeapi.props
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets.build.json
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\staticwebassets.development.json
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\scopedcss\bundle\pokeapi.styles.css
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.csproj.CopyComplete
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.dll
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\refint\pokeapi.dll
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.pdb
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\pokeapi.genruntimeconfig.cache
+D:\projects\pokeapi\pokeapi\obj\Debug\net6.0\ref\pokeapi.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\projects\pokeapi\pokeapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2dP15DD+CaywszocOubpzPVum4dtLnc0LPxFHLCKq84=",
+  "Source": "pokeapi",
+  "BasePath": "_content/pokeapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
